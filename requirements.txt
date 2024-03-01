@@ -1,2 +1,3 @@
-Pillow
-tqdm
+colorama==0.4.6
+pillow==10.2.0
+tqdm==4.66.2
